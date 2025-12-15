@@ -936,8 +936,8 @@ body {
 }
 
 .Barre-bleue-2 {
-    margin-top: 4.50rem !important;
-    margin-bottom: 5rem !important;
+    margin-top: 6rem !important;
+    margin-bottom: 3rem !important;
 }
 
 .Barre-bleue-3 {
@@ -1480,4 +1480,5 @@ textarea {
     .form {
         max-width: 1600px;
     }
+
 }
